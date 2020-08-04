@@ -1,11 +1,20 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+  "username": "Rohan",
+  "primaryPlan": "prepaid",
+  "msg_limit": "50",
+  "call_limit": "1200mins",
+  "data_limit": "250mb",
+  "plans": [{
+    "type" : "prepaid",
+    "amount": "INR 450",
+    "name": "Super Data Pack"
+  },{
+    "type" : "postpaid",
+    "amount": "INR 300",
+    "name": "Super Saver Pack"
+  },{
+    "type" : "prepaid",
+    "amount": "INR 250",
+    "name": "Budget Pack"
+  }]
+}]
