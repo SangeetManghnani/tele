@@ -1,4 +1,5 @@
-[{
+{
+  "posts" : [{
   "username": "Rohan",
   "primaryPlan": "prepaid",
   "msg_limit": "50",
@@ -18,3 +19,4 @@
     "name": "Budget Pack"
   }]
 }]
+}
