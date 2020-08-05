@@ -14,13 +14,13 @@
     "amount": "345",
     "name": "July 2020"
   },{
-    "type" : "Paid on 18th Jul 2020",
-    "amount": "INR 250",
+    "type" : "Paid on 13th Jun 2020",
+    "amount": "250.56",
     "name": "June 2020"
   },{
-    "type" : "prepaid",
-    "amount": "INR 250",
-    "name": "June 2020"
+    "type" : "Paid on 4th May 2020",
+    "amount": "650",
+    "name": "May 2020"
   }]
 }]
 }
